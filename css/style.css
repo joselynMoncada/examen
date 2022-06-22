@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+:root{
+	--color-titulos:#2750d0;
+	--color-contenido:#333;
+	--color-naranja:#ff9f06;
+	--color-azul:#2750d0;
+	--fondo-footer:#091f5b;
+}
+header{
+	background-color: #fff;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: #acbad4;
+	padding: 30px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+#services h1{
+	text-align: center;
+	font-weight: 700;
+	color: #2750d0;
+	margin-top:50px;
+	margin-bottom: 35px;
+	font-size: 35px;
+	
+}
+
+#services p{
+	text-align: center;
+	padding: 0px 20px;
+	margin-bottom: 50px;
+	font-size: 16px;
+}
+
+
+#welcome h1{
+	text-align: center;
+	font-weight: 700;
+	color: #2750d0;
+	font-size: 35px;
+}
+
+
+#welcome p{
+	padding: 0px 20px;
+	margin-bottom: 50px;
+	font-size: 16px;
+}
+
+#gallery h1{
+	text-align: center;
+	font-weight: 700;
+	color:  #ff930f;
+	font-size: 35px;
+	margin-top: 90px;
+	margin-bottom: 50px;
+}
+
+#gallery p{
+	color: #fff;
+	padding: 0px 20px;
+	margin-bottom: 50px;
+	font-size: 16px;
+}
+
+#gallery{
+	background-color:#2750d0;
+	background-size: cover;
+}
+
+
+#client h1{
+	text-align: center;
+	font-weight: 700;
+	color: #2750d0;
+	margin-top:50px;
+	margin-bottom: 35px;
+	font-size: 35px;
+}
+
+#client p{
+	text-align: center;
+	padding: 0px 20px;
+	margin-bottom: 50px;
+	font-size: 16px;
+}
+
+.row{
+	margin-bottom: 50px;
+}
+
+
+
+
+
